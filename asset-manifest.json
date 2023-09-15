@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pop-up-stay-in-touch/static/css/main.fda3b1ef.css",
+    "main.js": "/Pop-up-stay-in-touch/static/js/main.841eb55e.js",
+    "index.html": "/Pop-up-stay-in-touch/index.html",
+    "main.fda3b1ef.css.map": "/Pop-up-stay-in-touch/static/css/main.fda3b1ef.css.map",
+    "main.841eb55e.js.map": "/Pop-up-stay-in-touch/static/js/main.841eb55e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda3b1ef.css",
+    "static/js/main.841eb55e.js"
+  ]
+}
